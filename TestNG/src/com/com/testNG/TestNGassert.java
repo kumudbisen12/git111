@@ -36,6 +36,7 @@ public class TestNGassert {
 	  Set<Cookie> Cookies =driver.manage().getCookies();
 		 for (Cookie Cookie:Cookies)
 		 {
+						 System.out.println("The name"); 
 			 System.out.println("The name of cookie is:"+Cookie.getName());
 		 }
   }
