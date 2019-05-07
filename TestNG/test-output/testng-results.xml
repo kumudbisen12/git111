@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7494" started-at="2019-04-08T17:51:53Z" finished-at="2019-04-08T17:52:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7494" started-at="2019-04-08T17:51:53Z" finished-at="2019-04-08T17:52:01Z">
+      <class name="com.testNG.testNG1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="beforeSuite" is-config="true" duration-ms="12120" started-at="2019-04-08T17:51:41Z" finished-at="2019-04-08T17:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="Enterapplicationurl()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="Enterapplicationurl" is-config="true" duration-ms="2608" started-at="2019-04-08T17:51:53Z" finished-at="2019-04-08T17:51:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterapplicationurl -->
+        <test-method status="PASS" signature="maximizebrowser()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="maximizebrowser" is-config="true" duration-ms="1172" started-at="2019-04-08T17:51:56Z" finished-at="2019-04-08T17:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="beforeMethod" is-config="true" duration-ms="27" started-at="2019-04-08T17:51:57Z" finished-at="2019-04-08T17:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginwithvaiddetails()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="loginwithvaiddetails" duration-ms="2894" started-at="2019-04-08T17:51:57Z" finished-at="2019-04-08T17:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvaiddetails -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="capturescreenshot" is-config="true" duration-ms="679" started-at="2019-04-08T17:52:00Z" finished-at="2019-04-08T17:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="deletcookie()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="deletcookie" is-config="true" duration-ms="38" started-at="2019-04-08T17:52:01Z" finished-at="2019-04-08T17:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletcookie -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-04-08T17:52:01Z" finished-at="2019-04-08T17:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.testNG.testNG1@68be2bc2]" name="afterSuite" is-config="true" duration-ms="3122" started-at="2019-04-08T17:52:01Z" finished-at="2019-04-08T17:52:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testNG.testNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
